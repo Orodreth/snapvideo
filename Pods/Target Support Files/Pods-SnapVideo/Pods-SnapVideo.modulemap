@@ -1,0 +1,6 @@
+framework module Pods_SnapVideo {
+  umbrella header "Pods-SnapVideo-umbrella.h"
+
+  export *
+  module * { export * }
+}
